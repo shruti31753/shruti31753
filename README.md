@@ -82,3 +82,53 @@ graph TB
 
     AI --> LLM
     AI --> NLP
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<!-- Project 1 -->
+<a href="https://github.com/shruti31753">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=🛒+NimbusCart+-+Microservices+E-Commerce;Spring+Boot+%7C+Kafka+%7C+Docker+%7C+Kubernetes" />
+</a>
+
+<p>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
+</p>
+
+💡 Cloud-native e-commerce platform using microservices architecture  
+⚡ API Gateway • Service Discovery • JWT Auth  
+📦 Event-driven workflows using Kafka  
+
+---
+
+<!-- Project 2 -->
+<a href="https://ayushvati.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🌿+AyushVati+-+AI+Healthcare+Assistant;NLP+%7C+React+%7C+Hindi+Virtual+Assistant" />
+</a>
+
+<p>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
+</p>
+
+💡 Ayurvedic AI assistant with 85%+ user satisfaction  
+🧠 NLP-powered conversational interface  
+🌏 Focused on accessibility in Hindi  
+
+---
+
+<!-- Project 3 -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4D96FF&center=true&vCenter=true&width=600&lines=🏢+SAP+Fiori+Applications;CAP+%7C+HANA+%7C+UI5+%7C+Enterprise+Apps" />
+</a>
+
+<p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
+
+💡 Enterprise-grade SAP applications (BOM / FAL)  
+⚙️ OData V4 • CAP • UI5  
+📊 Optimized performance & user workflows  
+
+</div>
